@@ -7,8 +7,9 @@ Contributors: Ivan Grahek
 Last update: 12/21/22
 
 # Steps
+1. [Installing Psiturk](#install)
 
-## Installing Psiturk
+## Installing Psiturk <a name="install"></a>
 
 Install Psiturk within a new conda environment. Psiturk currently runs only on Linux and MacOS. Python 3.7 currently works well with Psiturk, so we install that version in our conda environment.
 
