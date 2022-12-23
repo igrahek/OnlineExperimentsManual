@@ -30,9 +30,12 @@ After you have installed Psiturk, you can run an example experiment to make sure
 In your terminal navigate to the folder where you want your experiment to be.
 
 Activate the conda environment
-
 ```
 conda activate psiturk
+```
+
+Start psiturk (Ignore the warning about the AWS credentials)
+```
 psiturk
 ```
 
