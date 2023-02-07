@@ -42,7 +42,12 @@ psiturk
 
 Create a folder with an example experiment (Stroop)
 ```
-psiturk-setup-example 
+psiturk-example 
+```
+
+Go into the newly created folder
+```
+cd psiturk-setup-example 
 ```
 
 Run the experiment in your browser
