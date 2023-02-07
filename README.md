@@ -4,7 +4,7 @@ This manual uses Psiturk and custom JavaScript code for creating online experime
 
 Contributors: Ivan Grahek
 
-Last update: 12/21/22
+Last update: 02/07/23
 
 ## Contents
 1. [Installing Psiturk](#install)
