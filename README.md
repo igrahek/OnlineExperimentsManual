@@ -21,6 +21,7 @@ https://docs.anaconda.com/anaconda/install/index.html
 conda create -n psiturk
 conda activate psiturk
 conda install python=3.7
+pip install cryptography==36.0.2  [solves a dependency issue on 02/07/2023]
 pip install psiturk
 ```
 
