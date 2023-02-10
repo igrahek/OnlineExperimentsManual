@@ -42,7 +42,7 @@ psiturk
 
 Create a folder with an example experiment (Stroop)
 ```
-psiturk-example 
+psiturk-setup-example 
 ```
 
 Go into the newly created folder
