@@ -47,7 +47,7 @@ psiturk-setup-example
 
 Go into the newly created folder
 ```
-cd psiturk-setup-example 
+cd psiturk-example 
 ```
 
 Run the experiment in your browser
