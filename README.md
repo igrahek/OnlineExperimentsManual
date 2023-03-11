@@ -15,6 +15,7 @@ Install Psiturk within a new conda environment. Psiturk currently runs only on L
 
 ### Install Anaconda or Miniconda
 ** Make sure to install in a reasonable folder (do not install on top of all of your other files)
+
 https://docs.anaconda.com/anaconda/install/index.html
 
 ### Create a conda environment
