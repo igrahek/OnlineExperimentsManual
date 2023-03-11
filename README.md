@@ -14,6 +14,7 @@ Last update: 02/07/23
 Install Psiturk within a new conda environment. Psiturk currently runs only on Linux and MacOS. Python 3.7 currently works well with Psiturk, so we install that version in our conda environment.
 
 ### Install Anaconda or Miniconda
+** Make sure to install in a reasonable folder (do not install on top of all of your other files)
 https://docs.anaconda.com/anaconda/install/index.html
 
 ### Create a conda environment
